@@ -22,5 +22,4 @@ Run the program
 `python main.py`
 
 ## Credits
-The [original video](https://www.youtube.com/shorts/k6aI4LyrxV0) for the idea.
-My friend for sending me the video.
+The [original video](https://www.youtube.com/shorts/k6aI4LyrxV0) for the idea and my friend for sending me the video.
