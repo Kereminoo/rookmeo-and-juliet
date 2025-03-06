@@ -10,7 +10,7 @@ Also, when rookmeo or juliet are taken, the other rook still turns into a queen,
 
 ## How to use
 > [!WARNING]
-> Windows does not support case sensitivity by default. Because of that, the black pieces are missing in this repository. Remember to download the required images from somewhere like [greenchess](https://greenchess.net/info.php?item=downloads) and adding them to the images folder (where the images are named r, n, b, etc.).
+> Windows does not support case sensitivity by default. Because of that, the black pieces are missing in this repository. Remember to download the required images from somewhere like [greenchess](https://greenchess.net/info.php?item=downloads) and add them to the images folder (where the images are named r, n, b, etc.).
 
 Clone the repository:
 `git clone https://github.com/Kereminoo/rookmeo-and-juliet.git`
